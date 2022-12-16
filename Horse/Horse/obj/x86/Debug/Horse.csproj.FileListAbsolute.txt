@@ -1,0 +1,22 @@
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\obj\x86\Debug\Horse.horse.resources
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\obj\x86\Debug\Horse.Properties.Resources.resources
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\bin\Debug\Horse.exe
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\bin\Debug\Horse.pdb
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\obj\x86\Debug\Horse.exe
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\obj\x86\Debug\Horse.pdb
+C:\Users\mostafa\Desktop\Project 1\Horse\Horse\obj\x86\Debug\Horse.Form1.resources
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\Horse\Horse\obj\x86\Debug\Horse.exe
+E:\F\EDU\Term 3\هوش مصنوعي\تمرينات\Project 1\Horse\Horse\obj\x86\Debug\Horse.pdb
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\bin\Debug\Horse.exe
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\bin\Debug\Horse.pdb
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\obj\x86\Debug\Horse.csproj.AssemblyReference.cache
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\obj\x86\Debug\Horse.Form1.resources
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\obj\x86\Debug\Horse.horse.resources
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\obj\x86\Debug\Horse.Properties.Resources.resources
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\obj\x86\Debug\Horse.csproj.GenerateResource.cache
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\obj\x86\Debug\Horse.csproj.CoreCompileInputs.cache
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\obj\x86\Debug\Horse.exe
+F:\Users\Artin-PC\Desktop\New folder (3)\Horse\Horse\obj\x86\Debug\Horse.pdb
